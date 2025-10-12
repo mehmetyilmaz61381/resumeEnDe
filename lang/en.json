@@ -18,5 +18,9 @@
   "ind3": "Used Git for version control in collaborative automation projects.",
   "galileo1": "Used Visual Studio Code as the primary IDE to develop end-to-end UI test scenarios with JavaScript and Playwright for web applications.",
   "galileo2": "Integrated automation scripts into CI/CD pipelines to support continuous testing.",
-  "galileo3": "Performed backend validation by writing SQL queries to ensure consistency between the UI and database."
+  "galileo3": "Performed backend validation by writing SQL queries to ensure consistency between the UI and database.",
+  "galileo4": "mplemented API tests (REST) including authentication, status code checks, and response data validation.",
+  "galileo5": "Followed Page Object Model (POM) for scalable and maintainable test architecture.",
+  "galileo6": "Implemented test setup and teardown scripts for database state management before and after test execution.",
+  "galileo7": "Worked in an Agile/Scrum environment, actively participating in daily stand-ups, sprint planning, and retrospectives."
 }
