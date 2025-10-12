@@ -1,0 +1,22 @@
+{
+  "title": "Mehmet Yilmaz - Resume",
+  "jobTitle": "Software Test Engineer",
+  "contact": "Contact",
+  "skills": "Skills",
+  "progTools": "Programming & Tools",
+  "testing": "Testing & Automation",
+  "pm": "Project Management & Documentation",
+  "db": "Databases & Infrastructure",
+  "languages": "Languages",
+  "courses": "Courses & Training",
+  "education": "Education",
+  "about": "About",
+  "aboutText": "I'm a Software Test Engineer with 4+ years of experience building and maintaining test automation frameworks. My focus is on ensuring software quality through comprehensive testing strategies and continuous improvement.",
+  "workExp": "Work Experience",
+  "ind1": "Developed test scenarios using Cucumber with Gherkin syntax in Jira and IntelliJ.",
+  "ind2": "Performed database validation using JDBC for backend testing.",
+  "ind3": "Used Git for version control in collaborative automation projects.",
+  "galileo1": "Used Visual Studio Code as the primary IDE to develop end-to-end UI test scenarios with JavaScript and Playwright for web applications.",
+  "galileo2": "Integrated automation scripts into CI/CD pipelines to support continuous testing.",
+  "galileo3": "Performed backend validation by writing SQL queries to ensure consistency between the UI and database."
+}

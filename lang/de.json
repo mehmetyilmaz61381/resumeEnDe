@@ -1,0 +1,22 @@
+{
+  "title": "Mehmet Yilmaz - Lebenslauf",
+  "jobTitle": "Software-Testingenieur",
+  "contact": "Kontakt",
+  "skills": "Fähigkeiten",
+  "progTools": "Programmierung & Tools",
+  "testing": "Testen & Automatisierung",
+  "pm": "Projektmanagement & Dokumentation",
+  "db": "Datenbanken & Infrastruktur",
+  "languages": "Sprachen",
+  "courses": "Kurse & Schulungen",
+  "education": "Ausbildung",
+  "about": "Über mich",
+  "aboutText": "Ich bin ein Software-Testingenieur mit über 4 Jahren Erfahrung im Aufbau und der Wartung von Testautomatisierungsframeworks. Mein Schwerpunkt liegt auf der Sicherstellung der Softwarequalität durch umfassende Teststrategien und kontinuierliche Verbesserung.",
+  "workExp": "Berufserfahrung",
+  "ind1": "Entwickelte Testszenarien mit Cucumber und Gherkin-Syntax in Jira und IntelliJ.",
+  "ind2": "Führte Datenbankvalidierungen mit JDBC für Backend-Tests durch.",
+  "ind3": "Verwendete Git für Versionskontrolle in kollaborativen Automatisierungsprojekten.",
+  "galileo1": "Benutzte Visual Studio Code als primäre IDE, um End-to-End-UI-Test-Szenarien mit JavaScript und Playwright zu entwickeln.",
+  "galileo2": "Integrierte Automatisierungsskripte in CI/CD-Pipelines, um kontinuierliches Testen zu unterstützen.",
+  "galileo3": "Führte Backend-Validierungen durch, um die Konsistenz zwischen UI und Datenbank sicherzustellen."
+}
