@@ -122,7 +122,7 @@ Minimalist and professional typography using Segoe UI and fallback fonts.
 
 No server or build process is required; it works directly in the browser.
 
-Click the 🌐 globe button to switch between English and German.
+Click the button to switch between English and German.
 The website will remember your last selection even after reloading.
 
 🧱 Design Decisions
@@ -133,6 +133,7 @@ Localization via JSON: Simplifies translation and future maintenance.
 LocalStorage persistence: Improves user experience by remembering language preferences.
 
 Clean separation of concerns: HTML (structure), CSS (presentation), and JS (logic) are kept separate for readability.
+
 
 
 
