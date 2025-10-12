@@ -1,7 +1,8 @@
 # resumeEnDe
 
 
-🌐 Mehmet Yilmaz – Multilingual Resume Website (English / Deutsch)
+ Mehmet Yilmaz – Multilingual Resume Website (English / Deutsch)
+ 
 🧠 Project Purpose
 
 This project is a personal CV (Resume) web page designed to showcase professional experience in a clean, interactive, and bilingual format (English and German).
@@ -12,16 +13,28 @@ The main goal is to demonstrate frontend development, internationalization (i18n
 
 
 project-root/
+
 │
+
 ├── index.html              # Main HTML file
+
 ├── style.css               # Styling and layout
+
 ├── js/
-│   └── lang.js             # JavaScript file for language switching
+
+      │  
+      └── lang.js             # JavaScript file for language switching
+
 ├── lang/
-│   ├── en.json             # English translation file
-│   └── de.json             # German translation file
-└── assets/
-    └── profile.jpg         # Profile photo (optional)
+
+       │  
+       ├── en.json             # English translation file
+
+       │  
+       └── de.json             # German translation file
+
+
+    
 ⚙️ How It Works
 When the user opens the page, the script checks localStorage for a saved language preference.
 
@@ -32,7 +45,7 @@ The lang.js file dynamically fetches the corresponding JSON translation file (en
 Each HTML element that contains translatable text uses a data-translate attribute.
 The JavaScript replaces the text content of these elements with the corresponding translation from the JSON file.
 
-The 🌐 language toggle button allows switching between English and German.
+The  language toggle button allows switching between English and German.
 The selected language is saved in localStorage, ensuring that the preference persists on reload.
 
 💡 Why This Project Was Built
@@ -120,6 +133,7 @@ Localization via JSON: Simplifies translation and future maintenance.
 LocalStorage persistence: Improves user experience by remembering language preferences.
 
 Clean separation of concerns: HTML (structure), CSS (presentation), and JS (logic) are kept separate for readability.
+
 
 
 
