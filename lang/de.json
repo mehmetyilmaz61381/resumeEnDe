@@ -16,7 +16,21 @@
   "ind1": "Entwickelte Testszenarien mit Cucumber und Gherkin-Syntax in Jira und IntelliJ.",
   "ind2": "Führte Datenbankvalidierungen mit JDBC für Backend-Tests durch.",
   "ind3": "Verwendete Git für Versionskontrolle in kollaborativen Automatisierungsprojekten.",
+  "ind4": "Regressionssuite mit Cucumber und dem Page Object Model (POM) automatisiert.",
+  "ind5": "Benutzerakzeptanztests (UAT) geleitet und an Produktionsüberprüfungen teilgenommen.",
+  "ind6": "Smoke-, Funktions-, Integrations-, UAT- und Regressions­tests durchgeführt.",
+  "ind7": "REST-API-Tests mit REST Assured automatisiert (Validierung von XML und JSON).",
+  "ind8": "UI-Tests mit Selenium WebDriver, Maven, POM und TestNG durchgeführt.",
+  "ind9": "Cucumber-HTML-Berichte mit dem BDD-Framework erstellt.",
+  "ind10": "Jenkins-Jobs ausgeführt und verwaltet, einschließlich E-Mail-Benachrichtigungen.",
+  "ind11": "APIs manuell mit Postman getestet und mit REST Assured automatisiert.",
+  "ind12": "Datenbanktests manuell mit SQL Developer und automatisiert über JDBC durchgeführt.",
   "galileo1": "Benutzte Visual Studio Code als primäre IDE, um End-to-End-UI-Test-Szenarien mit JavaScript und Playwright zu entwickeln.",
   "galileo2": "Integrierte Automatisierungsskripte in CI/CD-Pipelines, um kontinuierliches Testen zu unterstützen.",
-  "galileo3": "Führte Backend-Validierungen durch, um die Konsistenz zwischen UI und Datenbank sicherzustellen."
+  "galileo3": "Führte Backend-Validierungen durch, um die Konsistenz zwischen UI und Datenbank sicherzustellen.",
+  "galileo4": "API-Tests (REST) implementiert, einschließlich Authentifizierung, Überprüfung der Statuscodes und Validierung der Antwortdaten.",
+  "galileo5": "Das Page Object Model (POM) verwendet, um eine skalierbare und wartbare Testarchitektur zu gewährleisten.",
+  "galileo6": "Test-Setup- und Teardown-Skripte implementiert, um den Datenbankzustand vor und nach der Testausführung zu verwalten.",
+  "galileo7": "In einer Agile/Scrum-Umgebung gearbeitet und aktiv an täglichen Stand-ups, Sprint-Planungen und Retrospektiven teilgenommen."
+
 }
