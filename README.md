@@ -9,6 +9,11 @@ This project is a personal CV (Resume) web page designed to showcase professiona
 The main goal is to demonstrate frontend development, internationalization (i18n), and clean code structuring skills while providing a professional, easily accessible online resume.
 
 
+## 🔗 Live Demo
+
+📄 [mehmetyilmaz61381.github.io/resume](https://mehmetyilmaz61381.github.io/resumeEnDe/)
+
+
 🏗️ Project Structure
 
 
@@ -133,6 +138,7 @@ Localization via JSON: Simplifies translation and future maintenance.
 LocalStorage persistence: Improves user experience by remembering language preferences.
 
 Clean separation of concerns: HTML (structure), CSS (presentation), and JS (logic) are kept separate for readability.
+
 
 
 
