@@ -1,5 +1,5 @@
 const langToggle = document.getElementById("lang-toggle");
-let currentLang = localStorage.getItem("lang") || "en";
+let currentLang = localStorage.getItem("lang") || "de";
 
 async function loadLanguage(lang) {
   const response = await fetch(`./lang/${lang}.json`);
@@ -18,5 +18,6 @@ langToggle.addEventListener("click", () => {
   currentLang = currentLang === "en" ? "de" : "en";
   loadLanguage(currentLang);
 });
+
 
 loadLanguage(currentLang);
